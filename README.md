@@ -1,1 +1,1 @@
-# gb-node
+# geekbrains - node.js
