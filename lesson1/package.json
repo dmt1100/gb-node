@@ -1,0 +1,20 @@
+{
+  "name": "lesson1",
+  "version": "4.1.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pm": "pm2 --help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "colors": "^1.4.0",
+    "pm2": "^4.2.3"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
