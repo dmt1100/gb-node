@@ -1,0 +1,10 @@
+<h1>РИА Новости</h1>
+<h3>Экономика</h3>
+
+{{#if news}}
+    <ul>
+        {{#each news}}
+        <li>{{title}}<br>{{link}}<hr></li>
+        {{/each}}
+    </ul>
+{{/if}}
